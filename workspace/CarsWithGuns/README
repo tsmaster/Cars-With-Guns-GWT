@@ -1,0 +1,23 @@
+			  Cars With Guns GWT
+			   By Dave LeCompte
+
+Years and years ago, there were any number of inspirational games,
+some pencil and paper tabletop games, some 8-bit games, and even some
+games into the 90s. You probably know which ones I'm talking about.
+
+Around 2000ish, I discovered SDL for C++, and I started pulling
+together a game I called Cars With Guns. And then I discovered PyGame,
+the Python version of SDL. And Cars With Guns went that direction.
+
+That game had the deliberate aesthetic of being a construction-paper
+only game. Anything I couldn't accomplish with construction paper
+wouldn't make it in to the game.
+
+The game got as far as some multiplayer play, but it languished.
+
+Years later, I stumbled across WebGL, HTML5's Canvas, and the ForPlay
+game framework. I'd be happier if it had a name I could mention in
+polite company. But suffice it to say, it's a game framework that
+targets the web (currently) and Android (not today). I imagine that
+one could make a Java JAR and distribute that, if one wanted to.
+
